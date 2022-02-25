@@ -1,4 +1,4 @@
-# Collection Migration Issues and Feature Requests
+# BETA - Collection Migration Issues and Feature Requests
 
 This repository serves as a place to report bugs/issues when migraing your NFT collection using the [Metaplex Collection Migration Tool](https://collections.metaplex.com).
 
