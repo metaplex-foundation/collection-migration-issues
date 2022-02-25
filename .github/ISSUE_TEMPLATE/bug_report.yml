@@ -40,8 +40,8 @@ body:
   - type: input
     id: mint
     attributes:
-      label: Mint Address of one attempted NFT to migrate.
-      description: Provide a mint address for an NFT you tried to migrate.
+      label: Mint Address of NFT
+      description: Provide a mint address for one NFT you tried to migrate into a collection.
     validations:
       required: true
   - type: input
