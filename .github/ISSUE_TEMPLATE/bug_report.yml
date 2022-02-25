@@ -31,14 +31,14 @@ body:
     validations:
       required: false
   - type: input
-    id: os
+    id: collection
     attributes:
       label: Collection Mint Address
       description: Provide the mint address of your Collection Mint Account (if available).
     validations:
       required: false
   - type: input
-    id: os
+    id: mint
     attributes:
       label: Mint Address of one attempted NFT to migrate.
       description: Provide a mint address for an NFT you tried to migrate.
