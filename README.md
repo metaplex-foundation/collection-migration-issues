@@ -7,3 +7,5 @@ Please be thorough in your bug reports and also check our [Discord](https://disc
 <p align="center">
  <img src="https://user-images.githubusercontent.com/3758645/155794276-c4822dc0-0be0-4212-98cc-a78638c6327d.png" />
 </p>
+
+## FAQs
